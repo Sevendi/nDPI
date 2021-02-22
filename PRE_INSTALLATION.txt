@@ -1,0 +1,2 @@
+# sudo apt-get install libjson-c-dev
+# sudo apt install libpcap0.8-dev
